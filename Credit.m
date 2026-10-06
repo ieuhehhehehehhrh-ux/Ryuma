@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 
-static NSString *const kCreditText = @"@Ryuma";
+static NSString *const kCreditText = @"@Ryuma1";
 static NSString *const kTelegramLink = @"https://t.me/ryumahackff";
 
 static UIWindow *FindKeyWindow(void) {
