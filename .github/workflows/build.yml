@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 
 static NSString *const kCreditText = @"@Ryuma";
-static NSString *const kLink = @"https://t.me/YOUR_CHANNEL";
+static NSString *const kLink = @"https://t.me/ryumahackff";
 
 static UIWindow *FindKeyWindow(void) {
     for (UIScene *scene in UIApplication.sharedApplication.connectedScenes) {
